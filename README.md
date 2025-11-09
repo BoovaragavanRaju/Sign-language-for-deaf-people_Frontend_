@@ -1,7 +1,6 @@
 # ✋ Sign Language for Deaf People – Frontend
 
 A web-based interface that translates sign language gestures into text, enabling seamless communication between deaf individuals and others.
-
 ## 🌟 Features
 - 🎥 Real-time gesture input via webcam
 - 🧠 Integration with ML-based gesture recognition API
